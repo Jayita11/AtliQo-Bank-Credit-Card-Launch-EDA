@@ -78,9 +78,10 @@ The data cleaning process involved:
 
 The exploratory data analysis and statistical tests provided valuable insights:
 
-- Significant income disparities exist across different occupations.
-- The new credit card positively impacts transaction amounts and usage.
-- Recommendations for the credit card launch include targeting high-income occupations and further analyzing transaction behaviors.
+- There are noticeable income disparities across different occupations. This information can be pivotal in tailoring marketing strategies for the new credit card.
+- The analysis showed that the new credit card positively impacts transaction amounts and usage, indicating its potential success in the market.
+- The 18-25 age group, which accounts for approximately 26% of the customer base, represents a significant untapped market. This demographic has an average annual income of less than $50k and limited credit history, which affects their credit scores and credit limits. Their usage of credit cards is relatively low compared to other age groups.
+
 
 
 
