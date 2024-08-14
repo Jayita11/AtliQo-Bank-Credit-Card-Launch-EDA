@@ -1,4 +1,4 @@
-# AtliQo-Bank-Credit-crad-Launch-EDA
+# AtliQo-Bank-Credit-Card-Launch-EDA
 
 ## Table of Contents
 
